@@ -1,6 +1,4 @@
 
-/** this is obiously where im having trouble nothing i do is working. not sure if to float h1 h2 h3 or somehow to in html to group them together differently. IDK! :(  **/
-
 * {
     box-sizing: border-box;
     text-align: center;
@@ -37,39 +35,19 @@ header {
 }
 #article {
     background-color:  #777;
-    color: #ebebeb;;
-    width: 455px;
-    align-content: center
-    
+    color: #ebebeb;
+    align-content: center;
+    margin: 10px;  
+    height: 210px;
+    line-height: 50px;
 }
 
-#h1 {
-    background-color: #ebebeb;
-    color: #777;
-    margin: 0px;
-    padding: 0px;
-    width: 100px;
-    
-}
-#h2 {
-    background-color: #ebebeb;
-    color: #777;
-    margin: 0px;
-    padding: 0px;
-    width: 100px;
-}
-#h3 {
-    background-color: #ebebeb;
-    color: #777;
-    margin: 0px;
-    padding: 0px;
-    width: 100px;
-}
 
 p {
     background-color: #ebebeb;
     color: #777;
     line-height: 50px;
+    margin: 20px;
 }
 
 aside {
